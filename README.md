@@ -18,7 +18,7 @@ Para desenvolver o conteúdo abordado no tópico de Grafos 2, a dupla selecionou
 <img width="734" alt="Swim in Rising Water" src="https://github.com/projeto-de-algoritmos/Grafos2_LeetCode_/blob/master/img/leetcode_778.jpg">
 
 - [882 (Difícil)* - Prim](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/)
-<img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/Grafos1_LeetCode/blob/master/img/leetcode_882.jpg">
+<img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/Grafos2_LeetCode_/blob/master/img/leetcode_882.jpg">
 
 ## Instalação 
 **Linguagem**: C++<br>
