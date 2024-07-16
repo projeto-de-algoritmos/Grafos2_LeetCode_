@@ -17,8 +17,10 @@ Para desenvolver o conteúdo abordado no tópico de Grafos 2, a dupla selecionou
 - [778 (Difícil) - Dijkstra](https://leetcode.com/problems/swim-in-rising-water/description/)
 <img width="734" alt="Swim in Rising Water" src="https://github.com/projeto-de-algoritmos/Grafos2_LeetCode_/blob/master/img/leetcode_778.jpg">
 
-- [882 (Difícil)* - Prim](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/)
+- [882 (Difícil) - Prim](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/)
 <img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/Grafos2_LeetCode_/blob/master/img/leetcode_882.jpg">
+
+Observação: O exercício em questão foi utilizado previamente, porém, tem como diferença a sua execução, estando agora resolvido por meio do algoritmo de Prim.
 
 ## Instalação 
 **Linguagem**: C++<br>
@@ -43,5 +45,3 @@ Para aplicar os casos de teste (in e out), basta acessar o link referente ao exe
 ## Apresentação 
 
 
-
-* Observação: O exercício em questão foi utilizado previamente, porém, tem como diferença a sua execução, estando agora resolvido por meio do algoritmo de Prim.
