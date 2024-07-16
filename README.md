@@ -22,6 +22,12 @@ Para desenvolver o conteúdo abordado no tópico de Grafos 2, a dupla selecionou
 
 Observação: O exercício em questão foi utilizado previamente, porém, tem como diferença a sua execução, estando agora resolvido por meio do algoritmo de Prim.
 
+- [2290 (Difícil) - Dijkstra](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/)
+<img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/Grafos2_LeetCode_/blob/master/img/leetcode_2290.jpeg">
+
+- [3112 (Médio) - Dijkstra](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/description/)
+<img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/Grafos2_LeetCode_/blob/master/img/leetcode_3112.jpeg">
+
 ## Instalação 
 **Linguagem**: C++<br>
 **Pré-requisitos**: Compilador g++ (contido no GCC)<br>
