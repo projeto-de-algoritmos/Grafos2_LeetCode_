@@ -52,4 +52,3 @@ Para aplicar os casos de teste (in e out), basta acessar o link referente ao exe
 
 A apresentação da entrega pode ser visualizada [aqui](https://www.youtube.com/watch?v=wxG81zhmBNE). 
 
-<iframe width="866" height="487" src="https://www.youtube.com/embed/wxG81zhmBNE" title="Apresentação Grafo 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
